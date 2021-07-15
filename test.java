@@ -11,7 +11,9 @@ public class test {
         System.out.println(test +" "+gayoung);
 
         //kangminseg
-        String test2 ="1";
+        String test1 ="1";
         
+        //test
+        String test3 ="3";
     }
 }
