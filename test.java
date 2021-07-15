@@ -10,9 +10,6 @@ public class test {
         String gayoung = "가영";
         System.out.println(test +" "+gayoung);
         //kangminseung
-        String test2="강민승";
-        
-        //kimgayoung
-        String test3="김가영";
+        String test2="강민승12312313";
     }
 }
