@@ -4,7 +4,7 @@ public class test {
     
     public static void main(String[] args) {
         
-        String name = "gayoung'
+        String name = "gayoung";
         System.out.println("Hello " + name);
         
     }
