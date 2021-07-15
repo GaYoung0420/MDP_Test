@@ -11,5 +11,8 @@ public class test {
         System.out.println(test +" "+gayoung);
         //kangminseung
         String test2="강민승";
+        
+        //kimgayoung
+        String test3="김가영";
     }
 }
