@@ -13,5 +13,8 @@ public class test {
         String test2="강민승12312313";
         
         String test2="13435678";
+
+        //test4
+        String test4="111";
     }
 }
