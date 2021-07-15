@@ -9,5 +9,9 @@ public class test {
         String test ="  입니다.";
         String gayoung = "가영";
         System.out.println(test +" "+gayoung);
+
+        //kangminseg
+        String test2 ="1";
+        
     }
 }
