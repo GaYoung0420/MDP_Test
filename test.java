@@ -9,11 +9,7 @@ public class test {
         String test ="  입니다.";
         String gayoung = "가영";
         System.out.println(test +" "+gayoung);
-
-        //kangminseg
-        String test1 ="1";
-        
-        //test
-        String test3 ="3";
+        //kangminseung
+        String test2="강민승";
     }
 }
